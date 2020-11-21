@@ -1,4 +1,4 @@
-# Processor schematics
+# processor-schematics
 
 An 8-bit processor (single-core)
 
@@ -7,4 +7,3 @@ An 8-bit processor (single-core)
 ### ALU
 
 ### registers
-# processor-schematics
